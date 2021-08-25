@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DhirajChauhan40.DhirajChauhan40&color=44CC11)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anamansari062.anamansari062&color=44CC11)
 
 ---
 
-[![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhirajChauhan40&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamansari062&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-![Dhiraj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DhirajChauhan40&theme=rogue&hide_border=true&area=true)
+![Anam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anamansari062&theme=rogue&hide_border=true&area=true)
