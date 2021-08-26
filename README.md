@@ -1,6 +1,6 @@
 ### Hi there 
 - 🔭 I’m currently a Second Year CSI student
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/anam-ansari-673bb7207/), @anamansari062@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anam-ansari-673bb7207/), @anamansari062@gmail.com
 👋
 
 <!--
