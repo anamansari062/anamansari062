@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 
+- 🔭 I’m currently a Second Year CSI student
+- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/anam-ansari-673bb7207/), @anamansari062@gmail.com
+👋
 
 <!--
 **anamansari062/anamansari062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a Second Year CSI student
-- 📫 How to reach me: @anamansari062@gmail.com
+
 -->
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anamansari062.anamansari062&color=44CC11)
