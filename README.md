@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 ---
 
-[![Anam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamansari062&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
+#### 📈 My GitHub Statistics
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anamansari062&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamansari062&langs_count=6&layout=compact&theme=dracula" />
+</a>
 
 ---
 
