@@ -1,6 +1,6 @@
 ### Hi there 
 - 🔭 I’m currently a Second Year CSI student
-- revolving_hearts I’m here to contribute more to Open source projects and to develop a good community :)
+-  I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anam-ansari-673bb7207/), @anamansari062@gmail.com
 👋
 
