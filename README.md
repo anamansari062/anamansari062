@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Anam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anamansari062&theme=rogue&hide_border=true&area=true)
-<h3 align="left">CONNECT HERE: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anam-ansari-673bb7207//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anam-ansari-673bb7207//" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anamansari062" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anamansari062" height="30" width="40" /></a>
 
 </p>
 <br>
