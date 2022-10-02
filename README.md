@@ -1,5 +1,5 @@
 ### Hi there 
-- 🔭 I’m currently a Second Year CSI student
+- 🔭 I’m currently a Third Year CSI student
 -  I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me: https://linktr.ee/anamansari062
 👋
