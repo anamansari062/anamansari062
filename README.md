@@ -1,4 +1,4 @@
-### Hi there 
+### Hello folks 
 - 🔭 I’m currently a Third Year CSI student
 -  I’m here to contribute more to Open source projects and to develop a good community :)
 - 📫 How to reach me: https://linktr.ee/anamansari062
@@ -8,7 +8,6 @@
 **anamansari062/anamansari062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 -->
 
@@ -23,13 +22,8 @@ Here are some ideas to get you started:
 </a>
 
 ---
-
-
 </p>
-<br>
-
-
-<h3 align="left">SKILLS: </h3>
+<h3 align="left">Skills: </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
